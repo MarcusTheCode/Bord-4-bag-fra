@@ -1,0 +1,3 @@
+Hej mit navn er fuad
+alder: 24
+studie: Ingeniør
